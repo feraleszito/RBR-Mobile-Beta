@@ -36,6 +36,10 @@ Installation instructions will be published in `INSTALLATION.md`.
 
 **Original game resources are not included.**
 
+### Game Resources
+
+Original game resources are not included in the IPA. If you need help obtaining and preparing compatible resources from legitimate sources, please contact the project maintainer through GitHub Issues.
+
 ## Compatibility
 
 Successfully tested on:
@@ -96,6 +100,9 @@ Necesitarás un iPhone o iPad compatible, un computador para firmar e instalar l
 Las instrucciones se publicarán en `INSTALLATION.md`.
 
 **Los archivos originales del juego no están incluidos.**
+## Archivos del juego
+
+Los archivos originales del juego no están incluidos en la IPA. Si necesitas ayuda para conseguir y preparar recursos compatibles de fuentes legítimas, puedes contactar al responsable del proyecto mediante GitHub Issues.
 
 ## Compatibilidad
 
